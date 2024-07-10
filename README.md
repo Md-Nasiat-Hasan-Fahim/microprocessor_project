@@ -27,8 +27,27 @@ Join us in this journey to make AI accessible to every Bengali speaker, regardle
 
 
 
-<h2>Example</h2>
+<h2>Example: ThirdEye</h2>
+
 <p>We will demonstrate one of the many use cases of our developed system by implementing it for blind people in Bangladesh. In the context of developing nations like Bangladesh, there is a lack of adequate facilities to address and enhance the conditions of visually impaired individuals. Our aim is to develop a comprehensive system utilizing cost-effective and readily available digital integrated technology, designed to empower blind or partially blind individuals in carrying out their daily tasks with little to no assistance from others.</p>
+
+![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720621249/shoe_kpsq4n.jpg)
+
+### ThirdEyeCameraX
+
+ThirdEyeCameraX is an android application that can capture image/video and after capture is completed it appears in a
+bottom sheet. It is stored in the gallery of the device. It is also written in Kotlin and Jetpack Compose following
+MVVM(Model View View Model) pattern.
+
+### Available Approaches & Our Choice
+
+<strong>Monolithic Architecture:</strong> We could build both the application together as a single application. It is
+called monolithic architecture. But it would have lead to several problems. First of all parallel development would have
+been impossible. Second testing would have been difficult.
+
+<strong>Microservices Architecture:</strong> By following microservices architecture we're able to do parallel
+development. It saved our time. Also now it's easier to test. If any malfunction happens we would know which part is
+causing problem.
 
 ![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720608508/final1_w4z94v.jpg)
 
@@ -97,3 +116,16 @@ Pretrained Byte5 Model for English Text to Bangla Text & Google Python API: (htt
 
 <h2>Conclusion</h2>
 <p>Language or technical barriers shouldn't hinder progress in the age of AI. We must actively participate in the revolution using our Bengali resources and leverage open-source foreign AI resources. Our system will make it easy for the mass Bengali population, regardless of their background, to join this journey and bring Bangladesh a step closer to a 'Smart Bangladesh'.</p>
+
+## Contact Information
+
+For any further problems contact us: <br /> <br /> <strong>ML model developers:</strong> <br />
+
+Name: Nasiat Hasan Fahim <br /> Registration No:2020331013 <br /> Email:nhfahim18@gmail.com <br /> CSE, SUST <br /> <br /> Name: Niloy
+Sarker <br /> Registration No:2020331033 <br /> Email:niloysucker22@gmail.com <br /> CSE, SUST <br /> <br /> Name: Iqbal Mahmood Sajid
+<br /> Registration No:2020331103 <br /> Email:imsajid428@gmail.com <br /> CSE, SUST <br />
+
+<strong>App developers:</strong> <br /> <br /> Name: Rezaul Karim Sumon <br /> Registration No:2020331029 <br /> Email:rezaul0818@gmail.com
+<br /> CSE, SUST <br />
+
+Name: Md. Abid Ullah Muhib <br /> Registration No:2020331089 <br /> Email: uusshas12@gmail.com <br /> CSE, SUST <br />
