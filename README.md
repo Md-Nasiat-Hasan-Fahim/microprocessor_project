@@ -68,5 +68,23 @@ Join us in this journey to make AI accessible to every Bengali speaker, regardle
   </tbody>
 </table>
 
+<h2>Some detection with our models</h2>
+
+<table>
+  <tr>
+    <td align='center'><strong>রুবিক্স কিউব</strong></td>
+    <td align='center'><strong>জুতা</strong></td>
+    <td align='center'><strong>সানগ্লাস</strong></td>
+    <td align='center'><strong>কলম</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://res.cloudinary.com/dfl02brcp/image/upload/v1720604798/rubik_s_cube_ziptjc.jpg" alt="Image 1" width="200"/></td>
+    <td><img src="https://res.cloudinary.com/dfl02brcp/image/upload/v1720604798/shoe_boaymq.jpg" alt="Image 2" width="200"/></td>
+    <td><img src="https://res.cloudinary.com/dfl02brcp/image/upload/v1720604798/sunglass_dhca07.jpg" alt="Image 3" width="200"/></td>
+    <td><img src="https://res.cloudinary.com/dfl02brcp/image/upload/v1720604798/pen_qy0leq.jpg" alt="Image 4" width="200"/></td>
+  </tr>
+</table>
+
+
 <h2>Conclusion</h2>
 <p>Language or technical barriers shouldn't hinder progress in the age of AI. We must actively participate in the revolution using our Bengali resources and leverage open-source foreign AI resources. Our system will make it easy for the mass Bengali population, regardless of their background, to join this journey and bring Bangladesh a step closer to a 'Smart Bangladesh'.</p>
