@@ -71,10 +71,10 @@ Join us in this journey to make AI accessible to every Bengali speaker, regardle
 </table>
 
 <h3>Link to model notebooks</h3>
-Pretrained ASR Model for Bangla Voice to Bangla Text(https://www.kaggle.com/code/nasiatfahim/book3-text-to-image-finding)<br>
-Pretrained Byte5 Model for Bangla Text to English Text(https://www.kaggle.com/code/nasiatfahim/book3-text-to-image-finding)<br>
-Pretrained Grounding DINO for Text to Image Finding(https://www.kaggle.com/code/nasiatfahim/book3-text-to-image-finding)<br>
-Pretrained Byte5 Model for English Text to Bangla Text & Google Python API(https://www.kaggle.com/code/nasiatfahim/book3-text-to-image-finding)<br>
+Pretrained ASR Model for Bangla Voice to Bangla Text: (https://www.kaggle.com/code/nasiatfahim/book1-bangla-voice-to-bangla-text)<br>
+Pretrained Byte5 Model for Bangla Text to English Text: (https://www.kaggle.com/code/nasiatfahim/book2-bangla-text-to-english-text)<br>
+Pretrained Grounding DINO for Text to Image Finding: (https://www.kaggle.com/code/nasiatfahim/book3-text-to-image-finding)<br>
+Pretrained Byte5 Model for English Text to Bangla Text & Google Python API: (https://www.kaggle.com/code/nasiatfahim/book4-english-text-to-bangla-voice)<br>
 
 <h3>Some detection with our models</h3>
 
