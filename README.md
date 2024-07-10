@@ -25,11 +25,12 @@ Join us in this journey to make AI accessible to every Bengali speaker, regardle
 <h2>How are we going to achieve:</h2>
 <p></p>We want to develop an end-to-end Bangla voice assistance system using existing models and research. With the help of this system, people with zero to minimal English knowledge can interact with products that previously required English for interaction.</p>
 
-![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720608508/final1_w4z94v.jpg)
+
 
 <h2>Example</h2>
 <p>We will demonstrate one of the many use cases of our developed system by implementing it for blind people in Bangladesh. In the context of developing nations like Bangladesh, there is a lack of adequate facilities to address and enhance the conditions of visually impaired individuals. Our aim is to develop a comprehensive system utilizing cost-effective and readily available digital integrated technology, designed to empower blind or partially blind individuals in carrying out their daily tasks with little to no assistance from others.</p>
 
+![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720608508/final1_w4z94v.jpg)
 
 <h3>Models and Their Functions</h3>
 
