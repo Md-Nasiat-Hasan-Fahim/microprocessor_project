@@ -129,3 +129,8 @@ Sarker <br /> Registration No:2020331033 <br /> Email:niloysucker22@gmail.com <b
 <br /> CSE, SUST <br />
 
 Name: Md. Abid Ullah Muhib <br /> Registration No:2020331089 <br /> Email: uusshas12@gmail.com <br /> CSE, SUST <br />
+
+<h1 align='center'>Diagrams form Project2</h1>
+<h2>Bluetooth Car</h2>
+
+![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720622156/Picture1_fss9cy.png)
