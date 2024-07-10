@@ -117,6 +117,15 @@ Pretrained Byte5 Model for English Text to Bangla Text & Google Python API: (htt
 <h2>Conclusion</h2>
 <p>Language or technical barriers shouldn't hinder progress in the age of AI. We must actively participate in the revolution using our Bengali resources and leverage open-source foreign AI resources. Our system will make it easy for the mass Bengali population, regardless of their background, to join this journey and bring Bangladesh a step closer to a 'Smart Bangladesh'.</p>
 
+
+<h1 align='center'>Diagrams form Project2</h1>
+<h2>Bluetooth Car</h2>
+
+![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720622156/Picture1_fss9cy.png)
+![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720622156/Picture2_zdmkyj.png)
+![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720622156/Picture3_fujhbo.png)
+![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720622156/Picture4_ljdscn.png)
+
 ## Contact Information
 
 For any further problems contact us: <br /> <br /> <strong>ML model developers:</strong> <br />
@@ -129,11 +138,3 @@ Sarker <br /> Registration No:2020331033 <br /> Email:niloysucker22@gmail.com <b
 <br /> CSE, SUST <br />
 
 Name: Md. Abid Ullah Muhib <br /> Registration No:2020331089 <br /> Email: uusshas12@gmail.com <br /> CSE, SUST <br />
-
-<h1 align='center'>Diagrams form Project2</h1>
-<h2>Bluetooth Car</h2>
-
-![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720622156/Picture1_fss9cy.png)
-![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720622156/Picture2_zdmkyj.png)
-![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720622156/Picture3_fujhbo.png)
-![MasterHead](https://res.cloudinary.com/dfl02brcp/image/upload/v1720622156/Picture4_ljdscn.png)
